@@ -1,0 +1,10 @@
+credential.helper=/home/user/.bas-git/bas-git-helper-init.sh
+user.email=zhengzhang.lu01@sap.com
+user.name=Zhengzhang Lu
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/JasonLzz/CAP.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+credential.helper=store
